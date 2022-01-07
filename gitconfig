@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = joh.maier1@googlemail.com
+	name = Johanna Maier
